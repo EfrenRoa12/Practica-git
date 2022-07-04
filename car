@@ -1,0 +1,25 @@
+[33mcommit 01377f9770756e700e0e8a22051fd7748a9f0278[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Efren Rodriguez <efren.rodriguez.sa@gmail.com>
+Date:   Mon Jul 4 11:23:01 2022 -0500
+
+    segundo cambio
+
+[1mdiff --git a/archivo.txt b/archivo.txt[m
+[1mindex 3082649..12be136 100644[m
+[1m--- a/archivo.txt[m
+[1m+++ b/archivo.txt[m
+[36m@@ -4,13 +4,5 @@[m [mes un programador fullstack[m
+ [m
+ aprendiendo angular actualmente git[m
+ [m
+[31m-mas adenate js[m
+[31m-[m
+[31m-angular[m
+[31m-[m
+[31m-bootstrap[m
+[31m-[m
+[31m-node js[m
+[31m-[m
+[31m-npm[m
+[32m+[m[32mmas adenate js, angular, bootstrap, node js,npm[m
+ [m

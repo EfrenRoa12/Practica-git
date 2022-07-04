@@ -6,3 +6,6 @@ aprendiendo angular actualmente git
 
 mas adenate js, angular, bootstrap, node js,npm
 
+code archivo.txt
+
+
