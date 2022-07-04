@@ -4,13 +4,5 @@ es un programador fullstack
 
 aprendiendo angular actualmente git
 
-mas adenate js
-
-angular
-
-bootstrap
-
-node js
-
-npm
+mas adenate js, angular, bootstrap, node js,npm
 
