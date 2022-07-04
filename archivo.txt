@@ -9,5 +9,6 @@ mas adenate js, angular, bootstrap, node js,npm
 code archivo.txt
 
 alto y flaco
+aprendo con fredy vega de colombia platzi
 
 
